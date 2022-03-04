@@ -1,1 +1,1 @@
-web: bookeh serve --port=$PORT --allow-websocket-origin=adriana-bookeh-app.herokuapp.com --adress=0.0.0.0. --use-xheaders app
+web: bokeh serve --port=$PORT --allow-websocket-origin=adriana-bookeh-app.herokuapp.com --adress=0.0.0.0. --use-xheaders app
