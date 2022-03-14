@@ -47,7 +47,7 @@ def get_rank(data):
 #=============================
 
 # load data & create a dataframe
-csvPath =  pathlib.Path(r".\data\Final_centroids_14.csv")
+csvPath =  pathlib.Path("./data/Final_centroids_14.csv")
 df = pd.read_csv(csvPath)
 
 #====================================================================================
